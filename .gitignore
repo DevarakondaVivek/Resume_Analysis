@@ -43,3 +43,11 @@ next-env.d.ts
 # MCP Server
 mcp-server/build/
 mcp-server/.env
+
+# local env files
+.env
+.env.local
+.env*.local
+
+# macos system files
+.DS_Store
